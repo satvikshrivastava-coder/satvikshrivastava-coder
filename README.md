@@ -12,6 +12,14 @@ I am a 2nd-year B.Voc IoT Engineering student at DEI Agra, specializing in Embed
 ![](https://streak-stats.demolab.com/?user=satvikshrivastava-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=satvikshrivastava-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satvikshrivastava-coder/satvikshrivastava-coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satvikshrivastava-coder/satvikshrivastava-coder/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
